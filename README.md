@@ -1,10 +1,9 @@
 # PythonProject
-Sa se proiecteze si sa se implementeze un modul pentru matrici tridimensionale de numere
-reale cu alocare dinamica. Modulul trebuie sa permit rezolvarea urmatoarelor probleme:
--Crearea matricii;
--Afisarea matricii;
--Determinarea dimensiunii matricii;
--Modificarea dimensiunii matricii si reinitializarea acesteia
--Operatiile de adunare si scadere a dou matrici;
--Accesul la un element din matrice prin indici;
--Crearea unei matrici ca matrice nul
+Implement a python module for real number 3D matrices with dynamic allocation. the module must allow solving the following:
+-Create Matrixi;
+-Display matrix;
+-Find the matrix dimension;
+-Modify matrix dimmension
+-Add and substract 2 matrices;
+-Acces a matrix element by index;
+-Create a null matrix
