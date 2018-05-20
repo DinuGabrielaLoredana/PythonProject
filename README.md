@@ -1,6 +1,6 @@
 # PythonProject
 Implement a python module for real number 3D matrices with dynamic allocation. the module must allow solving the following:
--Create Matrixi;
+-Create Matrix;
 -Display matrix;
 -Find the matrix dimension;
 -Modify matrix dimmension
